@@ -46,6 +46,17 @@ This project uses **IMU-based motion analysis (MPU6050)**, **heart-rate & SpO2 m
 - Shopping list  
 - Algorithm research summary  
 
+### Person 4 — Algorithm Research
+Research seizure detection algorithms
+Study feature extraction methods for EEG/IMU/PPG
+Document machine learning approaches
+Summarize algorithm pipeline for the project
+Identify lightweight models suitable for ESP32
+Compare classical ML vs deep learning for seizure detection
+Prepare notes on preprocessing methods (filtering, segmentation)
+Research sensor-fusion techniques
+Create a structured algorithm design document
+
 ---
 
 ## 📌 Status
